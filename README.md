@@ -1,6 +1,6 @@
 ## Getting Started
 
-![Hero](https://user-images.githubusercontent.com/36173828/219326114-c17ab988-edfd-4408-bf25-7b19ec701e04.png)
+![Hero](https://user-images.githubusercontent.com/36173828/219326294-d7472e00-f35e-497f-9be6-454e26a8a5b1.png)
 
 
 Create a project using this example:
