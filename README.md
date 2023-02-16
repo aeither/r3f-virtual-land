@@ -1,5 +1,8 @@
 ## Getting Started
 
+![Hero](https://user-images.githubusercontent.com/36173828/219326114-c17ab988-edfd-4408-bf25-7b19ec701e04.png)
+
+
 Create a project using this example:
 
 ```bash
